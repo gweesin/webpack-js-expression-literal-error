@@ -1,0 +1,11 @@
+{
+  "name": "webpack-js-expression-literal-error",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack": "5.89.0",
+    "webpack-cli": "5.1.4"
+  }
+}
