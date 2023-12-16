@@ -9,3 +9,5 @@ pnpm install
 
 pnpm build
 ```
+
+> [build js expression literal /=/ error #17769](https://github.com/webpack/webpack/issues/17769)
